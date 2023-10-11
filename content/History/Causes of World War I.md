@@ -1,5 +1,4 @@
 #history/wwi
-
 ### Introduction
 ---
 - Prior to World War I, Britain was seen as a very strong and powerful empire.

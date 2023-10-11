@@ -3,7 +3,7 @@
 ### The Assassination
 ---
 - The Archduke Franz Ferdinand and his wife (from Austria-Hungary) is assassinated in the Bosnian capital, Sarajevo, by Gavrillo Princip, a member of the Serbian terrorist group, the Black Hand. **He was very important, as he was the heir to the Austrian monarchy.**
-- After this, Austria-Hungary asks Germany for advice, and Germany gives them a 'Blank Cheque'. **This means that they will support Austria, even if it means war.**
+- After this, Austria-Hungary asks Germany for advice, and Germany gives them a 'Blank Cheque'. **This means that they will support Austria, even if it means war.** 
 
 ### Ultimatum
 ---
