@@ -12,7 +12,6 @@
 
 
 
-
 ## Planning and Designing the Product
 ---
 ### Idea generation
