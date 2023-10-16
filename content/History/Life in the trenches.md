@@ -85,5 +85,3 @@ An ailment that has nothing to do with gas, but a condition caused by a chemical
 - They had to cope with constant artillery bombardments, human flesh and the stench.
 - The official attitude to shell shock in the early part of the war was that there is no such thing. They accused those showing symptoms of shell shock as malingerers or cowards.
 - Shell shock was caused by the stress of war: Some became violent and angry, others refused to communicate, some would gaze blankly, or they could shake, mumble and slobber.
-
-
