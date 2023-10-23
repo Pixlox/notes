@@ -23,12 +23,13 @@
 ![[Pasted image 20231017095832.png]]
 
 
-### Radioactive decay
+### Radioactive decay and half life
 ---
 - **Alpha Decay:** Nucleus emits an alpha particle (2 protons and 2 neutrons), reducing atomic number by 2 and mass number by 4.
 - **Beta Decay (minus):** a neutron transforms into a proton, emitting an electron (beta-minus particle) and increasing atomic number by 1. 
 - **Beta Decay (plus):** In beta-plus decay, a proton transforms into a neutron, emitting a positron (beta-plus particle) and decreasing atomic number by 1.
 - **Gamma Decay:** Nucleus emits high-energy gamma rays without changing atomic or mass number.
+- **Half life:** the time it takes for something that's falling apart or decaying to reduce in quantity by half. 
 
 
 ### Acids and bases
@@ -65,7 +66,7 @@
 
 #### Main hormonal glands
 
-![[Pasted image 20231017093512.png]]
+![[Pasted image 20231017093512.png|]]
 
 - Hypothalamus: controls important body functions like temperature, hunger / thirst and sleep. Tells the pituitary gland when to release hormones.
 - Pineal gland: produces melatonin, which helps regulate our sleep.
