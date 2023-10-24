@@ -6,6 +6,7 @@
 ---
 - When starting a business, you need to consider the different types of business legal structure.
 - There are 4 types: [[#sole trader]], [[#partnership]], [[#private company]] and [[#public company]].
+- Businesses also may change their business structure. Often, it is more common to change from a sole trader / partnership business to a private / public company form.
 
 
 ### Sole trader
@@ -43,4 +44,7 @@
 - It is expensive to establish.
 - Company name has the word **Limited (Ltd)** and has become a separate legal entity from the owners, ie. incorporation.
 - It is easier to raise capital or cash.
-- The company will continue to operate if the *owners change*.x
+- The company will continue to operate if the *owners change*.
+
+
+

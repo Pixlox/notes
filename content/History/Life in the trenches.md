@@ -40,7 +40,7 @@
 - Men in the trenches often stood for days in knee-high water.
 - The lack of drainage and abundant rain meant that the trenches were frequently full of water. 
 - This led to conditions of trench foot: the painful swelling of the feet caused by constant immersion in water.
-- In some cases the toes would rot off, and the condition often progressed to [[#Gangrene / Gas Gangrene|Gangrene]], that would lead to amputation.
+- In some cases the toes would rot off, and the condition often progressed to [[#Gangrene / Gas Gangrene|gangrene]], that would lead to amputation.
 - It was not only water that filled the trenches, that water at the bottom of a trench soon developed into an unbelievable putrid concoction of human and military debris
 - The stench of the trench and the smell of explosives and gas often induced vomiting.
 - At the height of the battle men had no choice but to urinate where they stood. 
