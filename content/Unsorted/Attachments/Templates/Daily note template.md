@@ -1,3 +1,4 @@
+#daily-notes 
 ```dataviewjs
 
 var none = '(none)';
@@ -24,8 +25,8 @@ nav.push(next ? '[[' + next[0] + ']]' : none);
 //dv.paragraph(nav.join(" · "));
 dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 ```
----
 ### To do list
+---
 - [ ] 
 
 
