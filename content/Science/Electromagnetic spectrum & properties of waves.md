@@ -19,3 +19,8 @@
 | Diffraction    | Diffraction is the spreading out of waves as they pass through or around objects.                                                                                                                                                                              |
 | Absorption     | Absorption is when waves are absorbed by an object. For example, black light absorbs all colours in the spectrum and reflects none.                                           |
 | Scattering     | Scattering is when waves are forced to go off their straight path to imperfections in the medium.                                                                                                                                                                          |
+
+
+#### Practical experiments on wave behaviours
+- [[Law of reflection]]
+- [[Law of refraction]]
