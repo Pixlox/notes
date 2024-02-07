@@ -59,3 +59,8 @@ This consists of exporters and importer from the rest of the world.
 In summary:
 - Money that flows in - exports (X)
 - Money that flows out - imports (M)
+
+### Flowchart
+---
+
+![[Pasted image 20240207150459.png]]
