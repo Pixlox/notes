@@ -1,4 +1,4 @@
-#commerce/employment 
+#commerce/y9/employment 
 
 ---
 A full time employee has ongoing [[Employment|employment]] and works on average, at least 38 hours a week. Some of the benefits of full time employment include:

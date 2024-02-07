@@ -1,4 +1,4 @@
-#science/nervous-system #science/atoms 
+#science/y9/nervous-system #science/y9/atoms 
 
 ### Atoms
 ---

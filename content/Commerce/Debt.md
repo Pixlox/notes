@@ -1,4 +1,4 @@
-#commerce/business 
+#commerce/y9/business 
 
 ---
 - Debt is borrowing from other individuals or institutions (eg. a loan from a bank).

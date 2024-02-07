@@ -1,4 +1,4 @@
-#commerce/employment 
+#commerce/y9/employment 
 
 ---
 - A salary is the total package of remuneration paid to an [[Employment|employee]].

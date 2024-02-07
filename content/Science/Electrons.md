@@ -1,4 +1,4 @@
-#science/atoms 
+#science/y9/atoms 
 
 ---
 - An electron is a negatively charged subatomic particle that orbits around the nucleus of an atom in 'shells'. 

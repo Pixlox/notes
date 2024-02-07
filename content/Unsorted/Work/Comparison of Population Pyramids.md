@@ -1,4 +1,4 @@
-#work/geography
+#work/y9/geography
 
 ---
 - Annotations of Yemen and Australia's population pyramids, identifying demographic trends and characteristics.

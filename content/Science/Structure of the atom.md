@@ -1,4 +1,4 @@
-#science/atoms
+#science/y9/atoms
 
 ---
 Atoms consist of three main subatomic particles: [[Protons|protons]], [[Neutrons|neutrons]], and [[Electrons|electrons]].

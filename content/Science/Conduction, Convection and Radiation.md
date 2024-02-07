@@ -1,7 +1,6 @@
-#science/energy
+#science/y9/energy
 
 ---
-
 #### Conduction
 - Hot to cold
 - When particles gain energy, they vibrate more and collide.

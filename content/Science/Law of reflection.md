@@ -1,4 +1,4 @@
-#science/waves 
+#science/y9/waves 
 
 ### Background information
 ---

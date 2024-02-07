@@ -1,4 +1,4 @@
-#science/waves
+#science/y9/waves
 
 ---
 - As the frequency increases, the wavelength decreases.

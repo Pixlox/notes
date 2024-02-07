@@ -1,4 +1,4 @@
-#commerce/employment 
+#commerce/y9/employment 
 
 ---
 - Commissions are the remuneration when [[Employment|employees]] sell goods and services for the company. This is mostly as a percentage of a sale.

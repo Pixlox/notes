@@ -1,4 +1,4 @@
-#history/wwi 
+#history/y9/wwi 
 
 ---
 - Indigenous people were not allowed to enlist into the Army.

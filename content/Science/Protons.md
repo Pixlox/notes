@@ -1,4 +1,4 @@
-#science/atoms 
+#science/y9/atoms 
 
 ---
 - A proton is a positively charged sub-atomic particle found in the nucleus of an atom. 

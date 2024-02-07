@@ -1,4 +1,4 @@
-#ist/animation 
+#ist/y9/animation 
 
 ---
 - Each cel is reproduced and variations are made to the next cel. This continues until there is a series of cels.

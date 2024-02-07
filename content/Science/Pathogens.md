@@ -1,7 +1,7 @@
 ---
 
 ---
-#science/disease
+#science/y9/disease
 
 ---
 ### Pathogens

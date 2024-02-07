@@ -1,4 +1,4 @@
-#commerce/employment 
+#commerce/y9/employment 
 
 ---
 - People who operate their own business, and make their income based off profits are [[Self employed|self employed]].

@@ -1,4 +1,4 @@
-#ist/animation
+#ist/y9/animation
 
 ---
 - Quality is determined by the [[Frame rate]]. Standard frame rate is 24fps.

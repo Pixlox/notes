@@ -1,4 +1,4 @@
-#science/nervous-system
+#science/y9/nervous-system
 
 ---
 ### Muscle tissue and optic nerve

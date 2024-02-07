@@ -1,4 +1,4 @@
-#commerce/business 
+#commerce/y9/business 
 
 ---
 - Equity is cash received from the sale of shares ownership, ie. inviting more owners into the business.

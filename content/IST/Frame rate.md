@@ -1,4 +1,4 @@
-#ist/animation 
+#ist/y9/animation 
 
 ---
 - Frames per second can be shortened down to FPS. This is also known as the *frame rate*.

@@ -1,4 +1,4 @@
-#maths/data
+#maths/y9/data
 
 ### Stem and leaf plots
 ---

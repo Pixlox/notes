@@ -1,4 +1,4 @@
-#science/atoms 
+#science/y9/atoms 
 
 ---
 - An isotope is simply another form of the same element that contain equal numbers of [[Protons|protons]], but differ in their numbers of [[Neutrons|neutrons]].

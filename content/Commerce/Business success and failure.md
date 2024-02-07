@@ -1,4 +1,4 @@
-#commerce/business #todo
+#commerce/y9/business #todo
 
 While starting your own business is appealing, there is a very high failure rate. 1 in 4 businesses fail in the first year, 7 to 10 businesses fail within the first 5 years.
 
