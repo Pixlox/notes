@@ -1,4 +1,3 @@
-#science/y10/evolution
 
 ### Facts from video
 ---
