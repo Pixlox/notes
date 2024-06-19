@@ -61,3 +61,5 @@ Law has 4 main roles:
 People develop a sense of what is and wrong from their beliefs, attitudes and values.
 
 Laws reflect a society's widely held values and morals. (eg. people believe murder is a serious crime).
+
+

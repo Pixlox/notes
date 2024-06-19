@@ -1,4 +1,4 @@
-#japanese/obento-y10/term2
+ #japanese/obento-y10/term2
 
 ---
 

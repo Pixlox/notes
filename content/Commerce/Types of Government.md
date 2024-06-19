@@ -29,3 +29,4 @@
 
 ### Democracy
 ---
+- Democracy is all people have equal rights and privileges. Citizens have the voting power to change the government during elections. [[Australian Democracy|Australia follows this.]]
