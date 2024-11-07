@@ -13,7 +13,7 @@ GDP is usually calculated on an annual basis. Put simply, GDP is a broad measure
 > $$ \text{{GDP per capita }} = \frac{{\text{{GDP}}}}{{\text{{Total Population}}}} $$
   
 ### Criticisms:
-1. The statistic does not take into account the underground or unofficial economy: everything from black market activity to under-the-table employment, as well as other transactions that, for various reasons, are not reported to the government.
+1. The statistic does not take into account the underground or unofficial economy: everything from black market activity to under-the-table [[Employment]], as well as other transactions that, for various reasons, are not reported to the government.
 
 2. The tendency of GDP to be interpreted as a gauged of material wellbeing, when in reality it serves as a measure of a nation’s productivity, which are not necessarily related.
 

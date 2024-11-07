@@ -50,7 +50,7 @@ Potential entrepreneurs would consider setting up a new business because:
 | Advantages                                                                       | Disadvantages                                                                                   |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Possible strong good will and customer base, linking to possible profit          | Franchisor has the complete control including price, products, suppliers and health regulations |
-| Equipment and advertisement already exists. Inventory would be cheaper           | Profits must be shared with the franchisor (according to contract)                              |
+| Equipment and advertisement already exists. Inventory would be cheaper           | [[Profits]] must be shared with the franchisor (according to contract)                              |
 | Low risk                                                                         | Franchisee or store owner might not feel like an owner, limited rights                          |
 | Franchisee does not need previous business experience, training will be provided | Franchisor charges service fee for advice                                                       |
 

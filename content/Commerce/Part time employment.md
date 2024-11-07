@@ -1,4 +1,4 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
 - A part time [[Employment|employee]] is similar to a [[Full time employment|full time employee]], except they work on average less than 38 hours per week.

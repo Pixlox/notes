@@ -36,7 +36,7 @@ The business cycle, AKA the economic cycle, is the downward and upward movement 
 | Rate of inflation may rise           | Rate of inflation may fall            |
 | Wage rates generally rise            | Wage rates generally fall             |
 | Interest rates eventually rise       | Interest rates eventually fall             | 
-| Level of unemployment falls          | Level of unemployment rises                                      |
+| Level of [[Unemployment]] falls          | Level of [[Unemployment]] rises                                      |
 
 #### Unemployment rate
 - The unemployed are people of working age who are without work, are available for work, andhave taken specific steps to find work.

@@ -1,4 +1,4 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
 There are 3 main types of employment contracts:

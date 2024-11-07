@@ -1,4 +1,4 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
 There are multiple classifications of [[income]]. Most income will fall into any one of these categories.
@@ -34,6 +34,6 @@ Royalty [[Income|income]] is income that is received by allowing someone else to
 
 ### Windfall Income
 ---
-Windfall [[income]] is unexpected income such as winning a lottery, gambling or receiving inheritance. This is the least reliable form of income.
+Windfall [[income]] is unexpected [[Income]] such as winning a lottery, gambling or receiving inheritance. This is the least reliable form of [[Income]].
 
 

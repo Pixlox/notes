@@ -1,4 +1,4 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
 - An industry refers to a group of business involved in similar or related work. There are five [[Industry types]]. ^0051ae

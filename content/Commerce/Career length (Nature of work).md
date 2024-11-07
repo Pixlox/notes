@@ -1,4 +1,4 @@
-#commerce/y9/employment #todo
+#commerce/y9/[[Employment]] #todo
 
 ---
 - Australia's job mobility has changed from having a job for life to now, having approximately *3 jobs a decade.*
@@ -8,5 +8,5 @@ Often, younger workers nowadays have a higher turnover than older workers.
 
 |          | Advantages                                                                       | Disadvantages                                                                                                                                |
 | -------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Employee | Skill diversification, rapid career growth, networking benefits, income increase | Lack of stability, Limited skill development, Difficulty building relationships, company loyalty concerns, time and effort of the job search |
+| Employee | Skill diversification, rapid career growth, networking benefits, [[Income]] increase | Lack of stability, Limited skill development, Difficulty building relationships, company loyalty concerns, time and effort of the job search |
 | Employer |                                                                                  |                                                                                                                                              |

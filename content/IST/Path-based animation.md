@@ -1,4 +1,4 @@
-#ist/y9/animation 
+#ist/y9/[[Animation]] 
 
 ---
 - This is where the first (original) [[Cel-based animation|cel]] or frame is drawn and then the last [[Cel-based animation|cel]] or frame is drawn.

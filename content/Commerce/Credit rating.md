@@ -1,8 +1,8 @@
-#commerce/y10/investment 
+#commerce/y10/[[Investment]] 
 
 ---
-- A credit rating is an independent assessment of the ability of a corporation or a government to repay a debt, either in general terms or regarding a specific financial obligation.
-- Credit scores are assigned to individuals based on their personal history of acquiring and repaying debt. They are checked by lenders considering loaning money to a consumer.
+- A credit rating is an independent assessment of the ability of a corporation or a government to repay a [[Debt]], either in general terms or regarding a specific financial obligation.
+- Credit scores are assigned to individuals based on their personal history of acquiring and repaying [[Debt]]. They are checked by lenders considering loaning money to a consumer.
 - Credit ratings are letter grades ranging from AAA at the top to C or D at the bottom.
 
 ### Borrowing
@@ -10,5 +10,5 @@
 
 Credit rating is affected by:
 - Character: personal ability to pay their bills with NO previous credit default.
-- Capacity: this refers to the person's current income and the level of existing debt.
+- Capacity: this refers to the person's current [[Income]] and the level of existing [[Debt]].
 - Collateral: assets used as security for the loan. If the borrower cannot repay, the assets will be forfeited.

@@ -2,7 +2,7 @@
 
 ---
 - Indigenous people were not allowed to enlist into the Army.
-- Indigenous people often masked their identity behind different names and nationalities to enlist.
+- Indigenous people often masked their identity behind different names and [[Nationalities]] to enlist.
 - Enlisting approval was at the discretion of the enlisting officer. Some Indigenous people with a white parent may also be able to enlist.
 - The '11th Lighthorse' had the largest percentage of Aboriginal peoples.
 - After the war, these Aboriginal soldiers returned home to be declined entry into RSLs, not be offered service medals, and had near to no acknowledgement. 

@@ -1,4 +1,4 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ### Outline
 ---
@@ -50,12 +50,12 @@ The *Workplace Health and Safety Act (WHS) 2010* outlines the responsibilities o
 
 ### Unfair dismissal
 ---
-- Unfair Dismissal is when the termination of employment is harsh, unjust & unreasonable and is considered illegal.
+- Unfair Dismissal is when the termination of [[Employment]] is harsh, unjust & unreasonable and is considered illegal.
 - Employees who believe they have been unfairly dismissed can apply to the Fair Work Commission for reinstatement or compensation.
 
 #### Fair dismissal methods
 - If an employee is not performing his/her job satisfactorily or behaving inappropriately, the employer can dismiss that person legally. 
 - There are 3 methods.
-- Summary dismissal: this is a serious breach of employment contract. E.g. fraud, assault.
+- Summary dismissal: this is a serious breach of [[Employment]] contract. E.g. fraud, assault.
 - Dismissal by notice: fail to perform the job appropriately (need 3 warning letters).
-- Redundancy: where the employee is no longer needed to perform. Employees are paid out a redundancy package as agreed in the employment contract. This *might not* be a *bad* thing for employees.
+- Redundancy: where the employee is no longer needed to perform. Employees are paid out a redundancy package as agreed in the [[Employment]] contract. This *might not* be a *bad* thing for employees.

@@ -11,6 +11,6 @@
 | ---------------------------------------------------------- | ------------------------------------------- |
 | Less risky to business owners                              | Investors expect a high return              |
 | If there is no profit, dividend is not distributed         | Loss of control due to multiple investors   |
-| There is no cash outflow (unless withdraw from investment) | Conflict can arise if partners do not agree |
+| There is no cash outflow (unless withdraw from [[Investment]]) | Conflict can arise if partners do not agree |
 
 

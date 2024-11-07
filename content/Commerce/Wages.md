@@ -1,4 +1,4 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
 - Wages are what an [[Employment|employee]] receives in exchange for their labour or services. The wage is normally a fixed regular payment.

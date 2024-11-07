@@ -42,7 +42,7 @@
 **Empress Dowager Cixi's Legacy and Impact:**
 
 - Legacy defined by evolving interpretations of her rule.
-- Noteworthy modernization efforts intertwined with challenges like the Boxer Rebellion.
-- Implemented late-life reforms, such as banning foot binding and promoting education.
+- Noteworthy modernization efforts intertwined with challenges like the [[Boxer rebellion]].
+- Implemented late-life reforms, such as banning [[Foot binding]] and promoting education.
 - Passed away in 1908, marking the end of her rule.
 - Her lasting impact shaped China's trajectory through a complex historical period.

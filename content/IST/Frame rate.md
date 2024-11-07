@@ -1,4 +1,4 @@
-#ist/y9/animation 
+#ist/y9/[[Animation]] 
 
 ---
 - Frame rates are the number of frames displayed on a screen per second.

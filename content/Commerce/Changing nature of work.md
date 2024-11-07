@@ -1,7 +1,7 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
-The aim of this unit is to describe the way that patterns of employment are changing.
+The aim of this unit is to describe the way that patterns of [[Employment]] are changing.
 
 Just as people change all the time, the nature of work also changes significantly over time. 
 

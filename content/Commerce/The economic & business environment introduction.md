@@ -48,4 +48,4 @@ A nation's economy is also affected by other nation's economies through the trad
 
 ***Production:*** The action of making or manufacturing from components or raw materials, or the process of being so manufactured.
 
-***Recession:*** A period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.
+***Recession:*** A period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in [[GDP]] in two successive quarters.

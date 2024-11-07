@@ -29,3 +29,17 @@ Reasons for investing:
 - Rate of return (ROR) is the profit earned as a % of the original investment.
 - If it is a loss, the ROR would be negative.
 - Of course, the higher the ROR, the better.
+- The basic rule of investment is: *the higher the rate of return, the higher the risk of losing your money.* The more it fluctuates, the more the chance for significant gain, but so is the probability of loss as well.
+
+### How to avoid investing failure
+---
+Wise investors spread out their investment (some are risky, some are safe) by having a wide range of investments or a balanced portfolio. This is called diversification.
+
+Don't put all your eggs in one basket.
+
+
+### Different types
+---
+- Term deposits: deposit a fixed amount into a financial institutions for a specific period without any cash withdraw. The rates are better than a normal saving account.
+- [[Superannuation]]: employers have to pay an additional 11.5% of your [[Wages]] into a [[Superannuation]] fund which is invested. When you have retired, then you can access the fund.
+- Shares (or Equities): partial ownership of a company. When the company is making a profit, investors receive a dividend.

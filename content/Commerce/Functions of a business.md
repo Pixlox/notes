@@ -53,5 +53,5 @@ If there are a lack of competitors (or none), consumers have to pay a higher pri
 - This consists of material and non material benefits.
 
 #### Examples
-- Consumers can afford to buy more goods and services due to higher income, to satisfy their needs and wants.
+- Consumers can afford to buy more goods and services due to higher [[Income]], to satisfy their needs and wants.
 - When businesses are more socially responsible by being environmentally friendly in their production process, which reduces wastage and pollution.

@@ -21,6 +21,6 @@ The main push factors for cities are:
 - War and civil disobedience
 - Intolerance of alternative lifestyles
 - Desertification
-- Rapid population growth
+- Rapid [[Population growth]]
 - Rural poverty
 - Transfer of land from subsistence to commercial (export-oriented) production

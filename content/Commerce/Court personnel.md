@@ -20,7 +20,7 @@
 ### Common law
 ---
 - The Common Law is the law created by decisions of judges, which act as binding precedents for later decisions.
-- Courts are responsible for interpreting and applying the relevant laws to the cases before them.
+- [[Courts]] are responsible for interpreting and applying the relevant laws to the cases before them.
 - If there is no existing relevant law, judges can create a new rule to settle a dispute.
 - A record of these decisions will be placed in books called Law Reports so that they can be referred to when needed.
 - These decisions are known as legal precedents.

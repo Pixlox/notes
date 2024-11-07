@@ -17,7 +17,7 @@
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Interests are tax deductible                          | Fixed repayment is necessary regardless of the performance situation                              |
 | Profit does not have to be distributed                | Interest can be costly (especially when interest rates are rising)                                |
-| Owners retain control of the business operation       | Good credit rating is required                                                                    |
+| Owners retain control of the business operation       | Good [[Credit rating]] is required                                                                    |
 | Easier to budget and calculate the expected cash flow | Banks might need security of certain assets (ie. the bank owns it until the loan has been repaid) |
 
 

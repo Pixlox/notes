@@ -41,13 +41,13 @@ Currently, the cost-of-living in urban areas is inflated. This can push people a
 The level of human wellbeing is crucial to the effective functioning of society, standards of living, health and education are all top priorities for all governments. Society always seeks to improve people's level of wellbeing.
 
 #### Subjective nature of wellbeing
-Human wellbeing can be measured by objective indicators, for example, life expectancy, educational attainment and income, or by subjective measures of how people perceive the quality of their life, as revealed by surveys of happiness.
+Human wellbeing can be measured by objective indicators, for example, life expectancy, educational attainment and [[Income]], or by subjective measures of how people perceive the quality of their life, as revealed by surveys of happiness.
 
 #### Human Wellbeing Ranking (Opinion)
 - Health
 - Safety
 - Housing
-- Income
+- [[Income]]
 - Relationships
-- Employment
+- [[Employment]]
 - Education

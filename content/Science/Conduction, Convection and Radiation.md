@@ -4,7 +4,7 @@
 #### Conduction
 - Hot to cold
 - When particles gain energy, they vibrate more and collide.
-- This allows the free electrons to spread the heat energy.
+- This allows the free [[Electrons]] to spread the heat energy.
 
 #### Convection
 - Liquids and gases (fluids)

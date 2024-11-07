@@ -69,7 +69,7 @@ Businesses are influenced by the level of completion such that they have to deve
 
 ### Ethics
 ---
-Businesses will use various strategies to achieve their business goals (eg. maximise profits). However these strategies can be unethical:
+Businesses will use various strategies to achieve their business goals (eg. maximise [[Profits]]). However these strategies can be unethical:
 - Excessive wastage and pollutions from operations
 - Misleading advertisement
 - Invasion of privacy 

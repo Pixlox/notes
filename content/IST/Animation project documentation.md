@@ -1,4 +1,4 @@
-#ist/y9/animation  
+#ist/y9/[[Animation]]  
 
 ## Understanding the Problem
 ---
@@ -74,12 +74,12 @@ For this assessment task, I intend to create a short ~1m animation of small simp
 ## Evaluating the Product
 ---
 ### Progress evaluation
-I am making good progress so far, however Adobe Animate is quite a pain to use, in my opinion. I have had struggles with it, and it is hard to create detailed and quality artworks in it. Still, I have kept going, and so far, I am actually up to date with my Gantt chart. My animation is about half-done, and I believe I will have time to spare if I keep the pace I am going at. I do want to make my mushroom and anything after more simplistic though, since my person took quite a bit of time to create.
+I am making good progress so far, however Adobe Animate is quite a pain to use, in my opinion. I have had struggles with it, and it is hard to create detailed and quality artworks in it. Still, I have kept going, and so far, I am actually up to date with my Gantt chart. My [[Animation]] is about half-done, and I believe I will have time to spare if I keep the pace I am going at. I do want to make my mushroom and anything after more simplistic though, since my person took quite a bit of time to create.
 
 ### Final evaluation
 Despite facing some challenges with Adobe Animate's usability and occasional crashes, I persevered, and the results, look acceptable. I struggled with Animate, but I believe that this is still pretty good, considering my non-artistic skillset.
 
-I successfully designed and modelled characters, with the final quality significantly improving from my initial sketches. Feedback from my friends and using their suggestions also improved the project's quality. I also added SFX to make the animation more engaging. 
+I successfully designed and modelled characters, with the final quality significantly improving from my initial sketches. Feedback from my friends and using their suggestions also improved the project's quality. I also added SFX to make the [[Animation]] more engaging. 
 
 
 

@@ -48,7 +48,7 @@ Checks and balances, such as the separation of Parliament, senior government and
 
 ### Laws, values and morals
 ---
-Laws are sets of rules which everyone in the community is expected to obey. Laws are enforced by the police and the courts, hence they are legal rules (eg. traffic laws).
+Laws are sets of rules which everyone in the community is expected to obey. Laws are enforced by the police and the [[Courts]], hence they are legal rules (eg. traffic laws).
 
 Without laws, people can do whatever they like, leading to possible chaos, disorder and confusion (ie. anarchy).
 

@@ -1,4 +1,4 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
 - Entitlements refer to the rights, benefits and privileges an employee is legally entitled to receive as a part of their employment agreement.
@@ -13,4 +13,4 @@ In order to retain and motivate employees, companies often provide monetary and 
 
 | Monetary                                                                                               | Non-monetary                                                                                             |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Wages, salaries, super (11%), bonuses, shares, retirement package, entertainment allowance, promotions | Company car, free gym membership, extra annual leave, phone / devices, insurance, training, job rotation |                                                                                                       |                                                                                                          |
+| [[Wages]], [[Salaries]], super (11%), bonuses, shares, retirement package, entertainment allowance, promotions | Company car, free gym membership, extra annual leave, phone / devices, insurance, training, job rotation |                                                                                                       |                                                                                                          |

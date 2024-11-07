@@ -8,4 +8,4 @@ Atoms consist of three main subatomic particles: [[Protons|protons]], [[Neutrons
 - [[Electrons]] are found outside the nucleus and have a negative charge. 
 - In between the nucleus and the electron lies empty space. Most of an atom is made up of empty space.
 
-Protons and neutrons have approximately the same mass, while electrons have a much lower mass, of 1/1840 of one proton.
+[[Protons]] and [[Neutrons]] have approximately the same mass, while [[Electrons]] have a much lower mass, of 1/1840 of one proton.

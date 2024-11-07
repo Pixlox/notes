@@ -1,7 +1,7 @@
-#commerce/y9/employment 
+#commerce/y9/[[Employment]] 
 
 ---
-- Voluntary work, also known as *unpaid work*, is a form of work where an individual exchanges their time and skills for no cost. While not *technically* employment, it is worth noting.
+- Voluntary work, also known as *unpaid work*, is a form of work where an individual exchanges their time and skills for no cost. While not *technically* [[Employment]], it is worth noting.
 
 - Voluntary and unpaid work can take on different forms. Some examples are: vocational placements, unpaid internships, unpaid work experience and unpaid trials. 
 

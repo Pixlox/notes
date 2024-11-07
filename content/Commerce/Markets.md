@@ -36,7 +36,7 @@ Labour market does not operate in a particular physical location. It relies on a
 ### Government intervention
 ---
 - A market can allocate resources in an efficient manner.
-- This is because the owners of those resources are always seeking to maximise their profits and incomes.
+- This is because the owners of those resources are always seeking to maximise their [[Profits]] and incomes.
 - However, at times the profit seeking nature of businesses can result in negative outcomes for the society and the environment.
 - Governments may need to intervene in the market to reduce these problems.
 
@@ -53,7 +53,7 @@ Labour market does not operate in a particular physical location. It relies on a
 
 #### Other reasons
 - Stabilise prices
-- Provide producers and farmers with a minimum income
+- Provide producers and farmers with a minimum [[Income]]
 - To avoid excessive prices for goods with important social welfare.
 - Discourage demerit goods (harmful, unhealthy to the individual consumer)
 

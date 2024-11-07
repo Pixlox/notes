@@ -1,4 +1,4 @@
-#commerce/y10/investment 
+#commerce/y10/[[Investment]] 
 
 ---
 Types of loans:

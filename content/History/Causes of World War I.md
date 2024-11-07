@@ -31,7 +31,7 @@
 #### Imperialism
 - When a country extends its rule over another country.
 - Countries form an empire by starting colonies.
-- More colonies means more raw mats more markets for trade and more lands.
+- More colonies means more raw mats more [[Markets]] for trade and more lands.
 - Countries come into conflict when competing for colonies.
 
 #### Nationalism
